@@ -1,0 +1,4 @@
+services:
+#    bloom_front.example:
+#        class: Bloom\Bundle\FrontBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

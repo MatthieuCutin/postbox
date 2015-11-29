@@ -1,0 +1,3 @@
+bloom_core_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: BloomCoreBundle:Default:index }
